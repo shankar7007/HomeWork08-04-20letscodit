@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="189bceba-bd0c-411a-89b5-09c615bfa1cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aDCubjsohh9vCFTONKGpPvkzRf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.letskodeit.learn.utility" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\learnletskodeit-maven-myproject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestCase.userShouldClickOnSignUpBtn">
+    <configuration name="TestCaseVerifyMessage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="learnletskodeit-maven-myproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.letskodeit.learn.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.letskodeit.learn.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.letskodeit.learn.testsuite.TestCaseVerifyMessage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCaseVerifyMessage.verifyMessageOnScreen" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="learnletskodeit-maven-myproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.letskodeit.learn.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.letskodeit.learn.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.letskodeit.learn.testsuite.TestCaseVerifyMessage" />
+      <option name="METHOD_NAME" value="verifyMessageOnScreen" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase.userShouldClickOnLoginBtn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="learnletskodeit-maven-myproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.letskodeit.learn.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.letskodeit.learn.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.letskodeit.learn.testsuite.TestCase" />
+      <option name="METHOD_NAME" value="userShouldClickOnLoginBtn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase.userShouldClickOnSignUpBtn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="learnletskodeit-maven-myproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.letskodeit.learn.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.letskodeit.learn.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.letskodeit.learn.testsuite.TestCase" />
+      <option name="METHOD_NAME" value="userShouldClickOnSignUpBtn" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCase.userShouldClickOnSignUpBtn" />
+        <item itemvalue="TestNG.TestCaseVerifyMessage" />
+        <item itemvalue="TestNG.TestCaseVerifyMessage.verifyMessageOnScreen" />
+        <item itemvalue="TestNG.TestCase.userShouldClickOnLoginBtn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="189bceba-bd0c-411a-89b5-09c615bfa1cd" name="Default Changelist" comment="" />
+      <created>1586261000466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586261000466</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="26" key="#Project_Structure" timestamp="1586261735551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="26" key="#Project_Structure/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586261735551" />
+    <state width="1323" height="150" key="GridCell.Tab.0.bottom" timestamp="1586374450428">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="150" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586374450428" />
+    <state width="1323" height="150" key="GridCell.Tab.0.center" timestamp="1586374450427">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="150" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586374450427" />
+    <state width="1323" height="150" key="GridCell.Tab.0.left" timestamp="1586374450427">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="150" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586374450427" />
+    <state width="1323" height="150" key="GridCell.Tab.0.right" timestamp="1586374450427">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="150" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586374450427" />
+    <state x="65" y="0" width="1235" height="728" key="new project wizard" timestamp="1586343154133">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" width="1235" height="728" key="new project wizard/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586343154133" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586275790407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1586275790407" />
+  </component>
+</project>
